@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+}
+
+.h1__text {
+    display: flex;
+    justify-content: center;
+    color: var(--lightblue);
+}

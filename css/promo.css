@@ -1,0 +1,101 @@
+.wrapper {
+    padding: 10px;
+    margin: 50px;
+    font-family: 'Roboto';
+}
+
+.promo {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.promo__1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/nav.jpg');
+}
+
+.promo__2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img__1 {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/bokal.jpg');
+}
+
+.promo1 {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.promo__3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img__2 {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/compas.jpg');
+}
+
+.promo__4 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img__3 {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/photo.jpg');
+}
+
+.promo2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.promo__5 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img__4 {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/planet.jpg');
+}
+
+.promo__6 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img__5 {
+    display: flex;
+    background-size: contain;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../img/sun.jpg');
+}
