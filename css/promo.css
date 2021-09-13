@@ -7,13 +7,7 @@
 .promo {
     display: flex;
     justify-content: space-around;
-}
-
-.promo__1 {
-    display: flex;
     flex-direction: row;
-    display: flex;
-    justify-content: space-around;
 }
 
 .img {
@@ -25,11 +19,6 @@
     background-image: url('../img/nav.svg');
 }
 
-.promo__2 {
-    display: flex;
-    flex-direction: row;
-}
-
 .img__1 {
     display: flex;
     background-size: contain;
@@ -37,16 +26,6 @@
     width: 100px;
     background-repeat: no-repeat;
     background-image: url('../img/bokal.svg');
-}
-
-.promo1 {
-    display: flex;
-    justify-content: space-around;
-}
-
-.promo__3 {
-    display: flex;
-    flex-direction: row;
 }
 
 .img__2 {
@@ -58,11 +37,6 @@
     background-image: url('../img/compas.svg');
 }
 
-.promo__4 {
-    display: flex;
-    flex-direction: row;
-}
-
 .img__3 {
     display: flex;
     background-size: contain;
@@ -72,16 +46,6 @@
     background-image: url('../img/photo.svg');
 }
 
-.promo2 {
-    display: flex;
-    justify-content: space-around;
-}
-
-.promo__5 {
-    display: flex;
-    flex-direction: row;
-}
-
 .img__4 {
     display: flex;
     background-size: contain;
@@ -89,11 +53,6 @@
     width: 100px;
     background-repeat: no-repeat;
     background-image: url('../img/planet.svg');
-}
-
-.promo__6 {
-    display: flex;
-    flex-direction: row;
 }
 
 .img__5 {
